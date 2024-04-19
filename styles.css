@@ -22,3 +22,15 @@
 	border-color:#1e86d0;
 	color:black;
 }
+.line{
+	height:2px;
+	flex:1px;
+	background:#c2c6c9;
+}
+.line .active{
+	background: #1e86d0;
+}
+button{
+	padding:10px 20px;
+	margin:0 5px;
+}
